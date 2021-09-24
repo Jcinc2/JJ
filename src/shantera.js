@@ -6,13 +6,10 @@ Hora del sexito
 Pongan cuties
 Fiesta del admin
 Admin party
-Viernes
 GOOOOD
 Alto temazo
 Todo bien
-Buenos dias
 Bot gay
-Gracias
 Hola
 Fua
 Corte
@@ -43,10 +40,7 @@ No funciona
 Boliviano
 Enano
 
-
 _*Ojito escribe tal y como esta en el mensaje*_
-
-ву ѕнαη∂υу`
 
 }
 
