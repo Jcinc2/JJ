@@ -1708,7 +1708,7 @@ break
                   }
 
 		if (budy.includes(`Buenos dias`)) {
-                  reply(`Buenos Dias trolos de mierda`)
+                  reply(`Buenos Dias`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
@@ -1716,11 +1716,11 @@ break
                   }
 
 		if (budy.includes(`Gracias`)) {
-                  reply(`De nada padre`)
+                  reply(`De nada`)
                   }
 
 		if (budy.includes(`Bien gracias y tu?`)) {
-                  reply(`Opa yazmin te extrañe :(`)
+                  reply(`Opa te extrañe :(`)
                   }
 					
 		if (budy.includes(`Opa`)) {
@@ -1797,10 +1797,6 @@ break
                   }
 	if (budy.startsWith(`Enano`)) {
         const none = fs.readFileSync('./mp3/gaspi14.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
-	if (budy.startsWith(`Buenas noches`)) {
-        const none = fs.readFileSync('./mp3/gaspi15.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                   }
         if (budy.startsWith(`Peruano`)) {
