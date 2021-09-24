@@ -4,13 +4,10 @@ Hora del sexito
 Pongan cuties
 Fiesta del admin
 Admin party
-Viernes
 GOOOOD
 Alto temazo
 Todo bien
-Buenos dias
 Bot gay
-Gracias
 Hola
 Fua
 Corte
