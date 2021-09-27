@@ -1906,7 +1906,11 @@ break
 		if (budy.startsWith(`Tuve fe`)) {
         const none = fs.readFileSync('./mp3/amen.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-                  }
+		}
+		if (budy.startsWith(`Sapo`)) {
+        const none = fs.readFileSync('./mp3/sapo.mp3');
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+                  }		
 	if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
 						muehe = await simih(budy)
